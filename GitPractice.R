@@ -1,3 +1,4 @@
+plot(mtcars$mpg ~ mtcars$wt)
 #This is a sample R Script for exercise in Git
 
 #Load documentation from R's pre-loaded dataset
